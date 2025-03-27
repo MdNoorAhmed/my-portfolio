@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio Website
 
-## Getting Started
+[![Next.js](https://img.shields.io/badge/Next.js-13.4+-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-18.2+-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3+-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-First, run the development server:
+A modern developer portfolio showcasing my projects, skills, and experience. Built with cutting-edge technologies to demonstrate frontend development expertise.
 
+![Portfolio Screenshot](/public/screenshot.png) <!-- Add your screenshot path -->
+
+## ✨ Features
+
+- **Responsive Design**: Works perfectly on all devices
+- **Dark/Light Mode**: Toggleable theme with system preference detection
+- **Project Showcase**: Interactive display of key projects
+- **Dynamic Content**: Easily updatable through modular components
+- **Performance Optimized**: 90+ Lighthouse scores
+- **Modern Animations**: Smooth transitions and interactions
+
+## 🛠 Technologies Used
+
+- **Framework**: Next.js 13 (App Router)
+- **Styling**: Tailwind CSS + CSS Modules
+- **Icons**: Custom SVG icons
+- **Deployment**: Vercel
+- **Linting**: ESLint + Prettier
+- **Component Library**: Custom-built reusable components
+
+## 🚀 Installation
+
+1. Clone the repository
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/your-username/portfolio.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install dependencies
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+3. Run development server
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📁 Project Structure
 
-## Learn More
+```bash
+├── app/               # App router components
+├── components/        # Reusable UI components
+├── public/            # Static assets
+├── assets/            # Image imports and data
+├── styles/            # Global CSS and Tailwind config
+└── package.json       # Project dependencies
+```
 
-To learn more about Next.js, take a look at the following resources:
+## 📸 Screenshots
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![Light Mode](/public/light-mode.png) | ![Dark Mode](/public/dark-mode.png) |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🤝 Contributing
 
-## Deploy on Vercel
+This is my personal portfolio, but suggestions are welcome! Please open an issue first to discuss any changes.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📄 License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) for details.
+
+---
+
+⭐ **Star this repo** if you found it useful!  
+💻 **Connect with me**: [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/md-noor-ahmed/)) 
