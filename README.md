@@ -56,9 +56,9 @@ npm run dev
 
 ## 📸 Screenshots
 
-| Light Mode | Dark Mode |
-|------------|-----------|
-| ![Light Mode](/public/light-mode.png) | ![Dark Mode](/public/dark-mode.png) |
+<div align="center"> <img src="https://github.com/user-attachments/assets/a2608b2f-3f40-4e80-b199-8da560c968e9" width="45%" alt="Desktop Light"/> <img src="https://github.com/user-attachments/assets/dda4b384-89ba-46d1-bd72-b92022c45b42" width="45%" alt="Desktop Dark"/> <img src="https://github.com/user-attachments/assets/fcfde8e8-48e7-4e96-837a-555d4d158fae" width="30%" alt="Mobile Light"/> <img src="https://github.com/user-attachments/assets/9abdce39-f6ed-4217-8612-0f0c32d7e573" width="30%" alt="Mobile Dark"/> <img src="https://github.com/user-attachments/assets/4173ba03-fb86-46d5-a40a-4ed7cdfe4a74" width="30%" alt="Mobile Section"/> </div>
+
+
 
 ## 🤝 Contributing
 
@@ -71,4 +71,4 @@ This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) fo
 ---
 
 ⭐ **Star this repo** if you found it useful!  
-💻 **Connect with me**: [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/md-noor-ahmed/)) 
+💻 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/md-noor-ahmed/) 
