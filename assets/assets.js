@@ -89,29 +89,29 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
-        description: 'Web Design',
+        title: 'AI Interview App',
+        description: 'Voice-based Interview Simulator',
         bgImage: '/work-1.png',
-        url: 'https://github.com/MdNoorAhmed/Netflix-Clone'
+        url: 'https://github.com/MdNoorAhmed/ai_mock_interviews'
 
     },
     {
-        title: 'CryptoChecker App',
-        description: 'Web App',
-        bgImage: '/work-2.png',
-        url: 'https://github.com/MdNoorAhmed/cryptocheck'
-
-    },
-    {
-        title: 'Portfolio site',
-        description: 'Web Design',
+        title: 'AI Image SaaS',
+        description: 'Generate stunning images from text',
         bgImage: '/work-3.png',
         url: 'https://github.com/MdNoorAhmed/my-portfolio'
 
     },
     {
+        title: 'CryptoCheck',
+        description: 'Real-time Cryptocurrency Dashboard & Analytics',
+        bgImage: '/work-2.png',
+        url: 'https://github.com/MdNoorAhmed/cryptocheck'
+
+    },
+    {
         title: 'UI/UX designing',
-        description: 'UI/UX Design',
+        description: 'Real-time chat, reimagined with clean design',
         bgImage: '/work-4.png',
         url: 'https://www.figma.com/proto/XluNTXy7RpuV501tnp9dT2/Practice%3A-Chat-App-Homepage-Design-(Copy)?page-id=107%3A2&node-id=107-17&t=1Q4EjYccDEXVNxEM-1'
 
