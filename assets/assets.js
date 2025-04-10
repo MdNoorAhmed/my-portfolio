@@ -99,7 +99,7 @@ export const workData = [
         title: 'AI Image SaaS',
         description: 'Generate stunning images from text',
         bgImage: '/work-3.png',
-        url: 'https://github.com/MdNoorAhmed/my-portfolio'
+        url: 'https://github.com/MdNoorAhmed/imagify'
 
     },
     {
