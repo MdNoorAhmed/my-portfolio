@@ -103,10 +103,10 @@ export const workData = [
 
     },
     {
-        title: 'CryptoCheck',
-        description: 'Real-time Cryptocurrency Dashboard & Analytics',
+        title: 'MERN Auth',
+        description: 'Secure Login, Email OTP & Password Reset',
         bgImage: '/work-2.png',
-        url: 'https://github.com/MdNoorAhmed/cryptocheck'
+        url: 'https://github.com/MdNoorAhmed/mern-auth-system'
 
     },
     {
