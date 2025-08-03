@@ -12,7 +12,7 @@ const Header = () => {
       whileInView={{scale: 1}}
       transition={{duration: 0.8, type: 'spring', stiffness: 100}}
       >
-        <Image src={assets.noorprofile} alt='' 
+        <Image src={assets.noorDp} alt='' 
         className='rounded-full w-36'/>
       </motion.div>
       <motion.h3 

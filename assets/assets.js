@@ -40,7 +40,7 @@ import portfolio_logo_dark from './portfolio-logo-dark.png';
 import noorpic from './noorpic.png';
 import noorprofile from './noorprofile.png';
 import noorpic2 from './noorpic2.png';
-
+import noorDp from './noorDp.png';
 
 
 
@@ -87,6 +87,7 @@ export const assets = {
     noorpic,
     noorprofile,
     noorpic2,
+    noorDp,
     right_arrow_bold_dark
 };
 
